@@ -1,0 +1,7 @@
+link of clustering application : 
+
+https://naufalulwan.shinyapps.io/Clustering/
+
+notes:
+1.Ensure that the data is in CSV format, with (.) as the decimal separator.
+2.Make sure that all data attributes (columns) are in numerical format, there should be no text.
