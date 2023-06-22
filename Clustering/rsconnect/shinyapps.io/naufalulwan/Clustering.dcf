@@ -1,0 +1,14 @@
+name: Clustering
+title: Clustering
+username:
+account: naufalulwan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9341398
+bundleId: 7369821
+url: https://naufalulwan.shinyapps.io/Clustering/
+when: 1687328943.8228
+lastSyncTime: 1687328943.8228
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: logo/logo.png
